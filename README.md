@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sonusp76
 - 👀 I’m interested in learning new skills 
 - 🌱 I’m currently learning c programming
-- 💞️ I’m looking to collaborate on new projects that currently trending
+- 💞️ I’m looking to collaborate on new projects that are currently trending
 - 📫 How to reach me mail me on soniyapattanashetti094@gmail.com
 - 😄 Pronouns: sonu
 - ⚡ Fun fact: Believe in yourself
